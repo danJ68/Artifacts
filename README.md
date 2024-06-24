@@ -1,0 +1,2 @@
+# Artifacts
+Claude React Artifacts
